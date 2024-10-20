@@ -1,0 +1,75 @@
+  <!-- by praveen👊🏻👀 -->
+
+
+<html>
+<head>
+  <title>selectbox</title>
+  <script language="javascript">
+  function fun1()
+  {
+    var n,c;
+    n=document.form1.st.selectedIndex;
+    switch(n)
+    {
+      case 0:
+      c="VIJAYAKUMAR💩";
+      break;
+      case 1:
+      c="SURESH👽";
+      break;
+      case 2:
+      c="SAUICEER☠️";
+      break;
+      case 3:
+      c="SHASHI😈";
+      break;
+      case 4:
+      c="SHAREEF🤖";
+      break;
+      case 5:
+      c="SUDHI😺";
+      break;
+      case 6:
+      c="SUMESH😎";
+      break;
+      case 7:
+      c="BIJU🤠";
+      break;
+      case 8:
+      c="DINESH🤫";
+      break;
+      case 9:
+      c="SIDIQU👻";
+      break;
+      default:
+      c="";
+    }
+    document.form1.txtcap.value=c;
+  }
+  </script>
+</head>
+   <body style="background-image: url('https://assets.onecompiler.app/42tmq6jud/3ww47radw/1000098137.jpg'); background-size: cover; background-position: center;"><!-- by praveen👊🏻👀 -->
+  <form name="form1">
+    🍼👶🏻
+      <select name="st">
+      <option value="1">sayooj
+        <option value="2">sandhesh
+          <option value="3">NIJAD
+            <option value="4">vishnudas
+              <option value="5">anshif
+                <option value="6">manav
+                 <option value="7">ashish
+                  <option value="8">jithin
+                    <option value="9">karthik
+                      <option value="10">salman
+              </select>
+              <br><br>
+              👨🏻‍💼<input type="text" name="txtcap" value="">
+              <br><br><br>
+                      <center>
+              <input type="button" value="👄" onclick="fun1();">
+                      </center>
+            </form>
+          </body>
+          </html>
+                 
